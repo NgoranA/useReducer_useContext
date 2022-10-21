@@ -1,0 +1,4 @@
+export const INCREMENT = 'INCREMENT';
+export const DECREMENT = 'DECREMENT';
+export const MULTIPLY_BY_VALUE = 'MULTIPLY_BY_VALUE';
+export const CHANGE_USERNAME = 'CHANGE_USERNAME';
